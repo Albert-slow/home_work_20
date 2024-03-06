@@ -1,0 +1,22 @@
+img{
+    width: 200px;
+    height: 250px;
+    margin-left: 50px;
+}
+.contact{
+    color: blueviolet;
+}
+.fio{
+    font-style: italic;
+}
+h3{
+    font-style: italic;
+}
+body{
+    background-image: url(./glitter-pink-leafy-frame_53876-116089.avif);
+    background-repeat: no-repeat;
+    height: 150vh;
+    width: 100vh;
+    background-size: contain;
+    background-position: left;
+}
